@@ -1,3 +1,4 @@
 # Web-based Sentiment Analysis App on Spotify Reviews Using the CNN Method
 a web-based application was made to classify reviews of Spotify using the Convolutional Neural Network (CNN) method. The research method used is planning by collecting a dataset in the form of 1000 reviews, analyzing data with a preprocessing process, designing applications using UML and flowchart and also making user interface designs, implementing the CNN method in the applications, and conducting system trials using black box testing types and testing the test data using confusion matrix. The model training process uses the TensorFlow library on Google Colaboratory. The results of the accuracy of model testing using test data have reached 96%.
 
+Read more on https://drive.google.com/file/d/1ENb23xQxjrJ2cpRPIOHFh9GK1QZzouJt/view?usp=sharing
